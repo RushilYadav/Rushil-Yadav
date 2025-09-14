@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi, I'm Rushil 👋
+
+I'm a Second Year Computer Science student at the University of Birmingham with a passion for creating projects and making a real-world impact.
+
+## Contact Me
+- **Email:** rushilyadav18@gmail.com
+- **LinkedIn:** [linkedin.com/in/rushil-yadav-77a013322/](https://www.linkedin.com/in/rushil-yadav-77a013322/)
+
 
 <!--
 **RushilYadav/RushilYadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
